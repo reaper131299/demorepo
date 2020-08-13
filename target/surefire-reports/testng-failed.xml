@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" verbose="0">
+  <listeners>
+    <listener class-name="myframework1.framework.listener"/>
+  </listeners>
+  <test parallel="tests" name="test1(failed)">
+    <classes>
+      <class name="myframework1.framework.test2">
+        <methods>
+          <include name="getTitle"/>
+          <include name="browserClose"/>
+          <include name="browseropen"/>
+        </methods>
+      </class> <!-- myframework1.framework.test2 -->
+      <class name="myframework1.framework.test1">
+        <methods>
+          <include name="browserClose"/>
+          <include name="browseropen"/>
+        </methods>
+      </class> <!-- myframework1.framework.test1 -->
+    </classes>
+  </test> <!-- test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,40 @@
+# Created at 2020-08-08T23:18:35.105
+java.lang.Error: Unresolved compilation problems: 
+	The import com.aventstack cannot be resolved
+	The import com.aventstack cannot be resolved
+	The import com.aventstack cannot be resolved
+	ExtentReports cannot be resolved to a type
+	The method config() from the type extentreport refers to the missing type ExtentReports
+	ExtentTest cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	Status cannot be resolved to a variable
+
+	at myframework1.framework.listener.<init>(listener.java:10)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.ReflectAccess.newInstance(ReflectAccess.java:124)
+	at java.base/jdk.internal.reflect.ReflectionFactory.newInstance(ReflectionFactory.java:346)
+	at java.base/java.lang.Class.newInstance(Class.java:604)
+	at org.testng.internal.ClassHelper.newInstance(ClassHelper.java:49)
+	at org.testng.TestNG.initializeConfiguration(TestNG.java:906)
+	at org.testng.TestNG.run(TestNG.java:1005)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+
+

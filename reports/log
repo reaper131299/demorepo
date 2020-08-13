@@ -1,0 +1,729 @@
+23:34:53.666 [main] INFO  myframework1.framework.base - driver started
+23:34:54.420 [main] INFO  myframework1.framework.base - tried logging-in
+23:34:55.183 [main] INFO  myframework1.framework.base - driver quit
+23:35:01.348 [main] INFO  myframework1.framework.base - driver started
+23:35:02.039 [main] INFO  myframework1.framework.base - tried logging-in
+23:35:02.686 [main] INFO  myframework1.framework.base - driver quit
+23:35:08.057 [main] INFO  myframework1.framework.base - driver started
+23:35:09.228 [main] INFO  myframework1.framework.base - driver quit
+23:35:15.836 [main] INFO  myframework1.framework.base - driver started
+23:35:15.889 [main] INFO  myframework1.framework.base - navigation bar present
+23:35:16.519 [main] INFO  myframework1.framework.base - driver quit
+12:55:12.136 [TestNG] INFO  myframework1.framework.base - driver started
+12:55:13.120 [TestNG] INFO  myframework1.framework.base - tried logging-in
+12:55:13.815 [TestNG] INFO  myframework1.framework.base - driver quit
+12:55:19.148 [TestNG] INFO  myframework1.framework.base - driver started
+12:55:19.921 [TestNG] INFO  myframework1.framework.base - tried logging-in
+12:55:20.553 [TestNG] INFO  myframework1.framework.base - driver quit
+12:55:25.966 [TestNG] INFO  myframework1.framework.base - driver started
+12:55:27.863 [TestNG] INFO  myframework1.framework.base - driver quit
+12:55:33.053 [TestNG] INFO  myframework1.framework.base - driver started
+12:55:33.123 [TestNG] INFO  myframework1.framework.base - navigation bar present
+12:55:33.778 [TestNG] INFO  myframework1.framework.base - driver quit
+12:56:49.948 [TestNG] INFO  myframework1.framework.base - driver started
+12:56:50.704 [TestNG] INFO  myframework1.framework.base - tried logging-in
+12:56:51.335 [TestNG] INFO  myframework1.framework.base - driver quit
+12:56:56.792 [TestNG] INFO  myframework1.framework.base - driver started
+12:56:57.501 [TestNG] INFO  myframework1.framework.base - tried logging-in
+12:56:58.119 [TestNG] INFO  myframework1.framework.base - driver quit
+12:57:03.629 [TestNG] INFO  myframework1.framework.base - driver started
+12:57:04.879 [TestNG] INFO  myframework1.framework.base - driver quit
+12:57:10.585 [TestNG] INFO  myframework1.framework.base - driver started
+12:57:10.630 [TestNG] INFO  myframework1.framework.base - navigation bar present
+12:57:11.250 [TestNG] INFO  myframework1.framework.base - driver quit
+12:57:21.895 [TestNG] INFO  myframework1.framework.base - driver started
+12:57:22.739 [TestNG] INFO  myframework1.framework.base - tried logging-in
+12:57:23.358 [TestNG] INFO  myframework1.framework.base - driver quit
+12:57:29.030 [TestNG] INFO  myframework1.framework.base - driver started
+12:57:30.138 [TestNG] INFO  myframework1.framework.base - tried logging-in
+12:57:30.774 [TestNG] INFO  myframework1.framework.base - driver quit
+12:57:36.548 [TestNG] INFO  myframework1.framework.base - driver started
+12:57:37.722 [TestNG] INFO  myframework1.framework.base - driver quit
+12:57:43.975 [TestNG] INFO  myframework1.framework.base - driver started
+12:57:44.032 [TestNG] INFO  myframework1.framework.base - navigation bar present
+12:57:44.682 [TestNG] INFO  myframework1.framework.base - driver quit
+13:01:29.497 [TestNG] INFO  myframework1.framework.base - driver started
+13:03:05.009 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:03:05.109 [pool-2-thread-3] INFO  myframework1.framework.base - driver started
+13:03:05.192 [pool-2-thread-2] INFO  myframework1.framework.base - driver started
+13:03:05.264 [pool-2-thread-3] INFO  myframework1.framework.base - navigation bar present
+13:03:06.172 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:03:06.576 [pool-2-thread-2] INFO  myframework1.framework.base - driver quit
+13:03:06.576 [pool-2-thread-3] INFO  myframework1.framework.base - driver quit
+13:03:06.808 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:03:13.785 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:03:14.505 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:03:15.151 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:03:54.373 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:03:55.063 [pool-2-thread-3] INFO  myframework1.framework.base - driver started
+13:03:55.693 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:03:56.079 [pool-2-thread-2] INFO  myframework1.framework.base - driver started
+13:03:56.148 [pool-2-thread-3] INFO  myframework1.framework.base - navigation bar present
+13:03:56.439 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:03:57.297 [pool-2-thread-3] INFO  myframework1.framework.base - driver quit
+13:04:02.746 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:04:03.514 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:04:04.163 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:04:51.568 [main] INFO  myframework1.framework.base - driver started
+13:04:52.640 [main] INFO  myframework1.framework.base - tried logging-in
+13:04:53.275 [main] INFO  myframework1.framework.base - driver quit
+13:04:58.716 [main] INFO  myframework1.framework.base - driver started
+13:04:59.428 [main] INFO  myframework1.framework.base - tried logging-in
+13:05:00.051 [main] INFO  myframework1.framework.base - driver quit
+13:05:05.261 [main] INFO  myframework1.framework.base - driver started
+13:05:06.433 [main] INFO  myframework1.framework.base - driver quit
+13:05:11.789 [main] INFO  myframework1.framework.base - driver started
+13:05:11.830 [main] INFO  myframework1.framework.base - navigation bar present
+13:05:12.466 [main] INFO  myframework1.framework.base - driver quit
+13:07:03.817 [pool-2-thread-2] INFO  myframework1.framework.base - driver started
+13:07:04.269 [pool-2-thread-3] INFO  myframework1.framework.base - driver started
+13:07:04.378 [pool-2-thread-3] INFO  myframework1.framework.base - navigation bar present
+13:07:04.400 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:07:05.416 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:07:05.687 [pool-2-thread-3] INFO  myframework1.framework.base - driver quit
+13:07:06.543 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:07:12.168 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:07:12.862 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:07:13.542 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:07:29.384 [pool-2-thread-3] INFO  myframework1.framework.base - driver started
+13:07:29.484 [pool-2-thread-3] INFO  myframework1.framework.base - navigation bar present
+13:07:29.590 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:07:29.887 [pool-2-thread-2] INFO  myframework1.framework.base - driver started
+13:07:30.242 [pool-2-thread-3] INFO  myframework1.framework.base - driver quit
+13:07:30.745 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:07:31.406 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:07:36.966 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:07:37.773 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:07:38.935 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:12:59.800 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:13:00.186 [pool-2-thread-2] INFO  myframework1.framework.base - driver started
+13:13:01.094 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:13:01.264 [pool-2-thread-3] INFO  myframework1.framework.base - driver started
+13:13:01.344 [pool-2-thread-3] INFO  myframework1.framework.base - navigation bar present
+13:13:01.744 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:13:02.967 [pool-2-thread-2] INFO  myframework1.framework.base - driver quit
+13:13:07.316 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:13:08.087 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:13:08.744 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:13:47.957 [pool-2-thread-2] INFO  myframework1.framework.base - driver started
+13:13:48.216 [pool-2-thread-3] INFO  myframework1.framework.base - driver started
+13:13:48.365 [pool-2-thread-3] INFO  myframework1.framework.base - navigation bar present
+13:13:49.467 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:13:49.898 [pool-2-thread-2] INFO  myframework1.framework.base - driver quit
+13:13:49.899 [pool-2-thread-3] INFO  myframework1.framework.base - driver quit
+13:13:50.321 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:13:50.989 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:13:56.593 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+13:13:57.340 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:13:58.000 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+13:14:14.764 [main] INFO  myframework1.framework.base - driver started
+13:14:15.424 [main] INFO  myframework1.framework.base - driver quit
+13:14:20.705 [main] INFO  myframework1.framework.base - driver started
+13:14:20.758 [main] INFO  myframework1.framework.base - navigation bar present
+13:14:22.268 [main] INFO  myframework1.framework.base - driver quit
+13:15:12.761 [main] INFO  myframework1.framework.base - driver started
+13:15:13.449 [main] INFO  myframework1.framework.base - driver quit
+13:15:19.489 [main] INFO  myframework1.framework.base - driver started
+13:15:19.536 [main] INFO  myframework1.framework.base - navigation bar present
+13:15:20.168 [main] INFO  myframework1.framework.base - driver quit
+13:17:29.987 [main] INFO  myframework1.framework.base - driver started
+13:17:30.663 [main] INFO  myframework1.framework.base - driver quit
+13:17:36.609 [main] INFO  myframework1.framework.base - driver started
+13:17:36.658 [main] INFO  myframework1.framework.base - navigation bar present
+13:17:37.300 [main] INFO  myframework1.framework.base - driver quit
+13:17:43.360 [main] INFO  myframework1.framework.base - driver started
+13:17:44.057 [main] INFO  myframework1.framework.base - driver quit
+13:21:25.238 [main] INFO  myframework1.framework.base - driver started
+13:21:26.957 [main] INFO  myframework1.framework.base - driver quit
+13:21:32.307 [main] INFO  myframework1.framework.base - driver started
+13:21:32.972 [main] INFO  myframework1.framework.base - driver quit
+13:21:38.304 [main] INFO  myframework1.framework.base - driver started
+13:21:38.394 [main] INFO  myframework1.framework.base - navigation bar present
+13:21:39.004 [main] INFO  myframework1.framework.base - driver quit
+20:36:05.171 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+20:36:05.171 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+20:36:05.387 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+20:36:05.707 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+20:36:06.354 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+20:36:06.415 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+20:36:07.021 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+20:36:12.581 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+20:36:13.407 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+20:36:14.032 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+20:41:12.191 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+20:41:12.506 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+20:41:12.727 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+20:41:12.839 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+20:41:13.656 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+20:41:13.657 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+20:41:14.325 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+20:41:19.969 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+20:41:20.822 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+20:41:21.498 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+20:45:52.687 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+20:45:54.454 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+20:45:54.543 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+20:45:54.641 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+20:45:54.793 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+20:45:55.238 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+20:45:55.465 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+20:46:00.780 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+20:46:01.824 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+20:46:02.596 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+20:48:08.417 [main] INFO  myframework1.framework.base - driver started
+20:48:09.124 [main] INFO  myframework1.framework.base - driver quit
+20:48:16.148 [main] INFO  myframework1.framework.base - driver started
+20:48:16.226 [main] INFO  myframework1.framework.base - navigation bar present
+20:48:16.846 [main] INFO  myframework1.framework.base - driver quit
+20:51:46.604 [main] INFO  myframework1.framework.base - driver started
+20:51:47.301 [main] INFO  myframework1.framework.base - tried logging-in
+20:51:47.944 [main] INFO  myframework1.framework.base - driver quit
+20:51:53.332 [main] INFO  myframework1.framework.base - driver started
+20:51:54.037 [main] INFO  myframework1.framework.base - tried logging-in
+20:51:54.680 [main] INFO  myframework1.framework.base - driver quit
+20:51:59.790 [main] INFO  myframework1.framework.base - driver started
+20:52:01.048 [main] INFO  myframework1.framework.base - driver quit
+20:52:07.243 [main] INFO  myframework1.framework.base - driver started
+20:52:07.292 [main] INFO  myframework1.framework.base - navigation bar present
+20:52:07.923 [main] INFO  myframework1.framework.base - driver quit
+20:53:18.134 [TestNG] INFO  myframework1.framework.base - driver started
+20:53:18.893 [TestNG] INFO  myframework1.framework.base - tried logging-in
+20:53:19.534 [TestNG] INFO  myframework1.framework.base - driver quit
+20:53:25.210 [TestNG] INFO  myframework1.framework.base - driver started
+20:53:25.949 [TestNG] INFO  myframework1.framework.base - tried logging-in
+20:53:26.580 [TestNG] INFO  myframework1.framework.base - driver quit
+20:53:31.942 [TestNG] INFO  myframework1.framework.base - driver started
+20:53:33.142 [TestNG] INFO  myframework1.framework.base - driver quit
+20:53:38.490 [TestNG] INFO  myframework1.framework.base - driver started
+20:53:38.532 [TestNG] INFO  myframework1.framework.base - navigation bar present
+20:53:39.151 [TestNG] INFO  myframework1.framework.base - driver quit
+20:54:15.354 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+20:54:15.710 [pool-2-thread-3] INFO  myframework1.framework.base - driver started
+20:54:15.831 [pool-2-thread-3] INFO  myframework1.framework.base - navigation bar present
+20:54:16.511 [pool-2-thread-2] INFO  myframework1.framework.base - driver started
+20:54:16.553 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+20:54:16.653 [pool-2-thread-3] INFO  myframework1.framework.base - driver quit
+20:54:17.234 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+20:54:22.661 [pool-2-thread-1] INFO  myframework1.framework.base - driver started
+20:54:23.434 [pool-2-thread-1] INFO  myframework1.framework.base - tried logging-in
+20:54:24.107 [pool-2-thread-1] INFO  myframework1.framework.base - driver quit
+20:55:02.176 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+20:55:02.324 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+20:55:02.330 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+20:55:02.342 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+20:55:03.302 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+20:55:03.695 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+20:55:03.956 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+20:55:09.181 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+20:55:10.194 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+20:55:10.841 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:46:20.457 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+22:46:20.926 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+22:46:22.560 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+22:46:22.833 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+22:46:23.111 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+22:46:23.867 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:46:24.282 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+22:46:31.151 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+22:46:32.587 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+22:46:33.364 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:47:49.412 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+22:47:49.469 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+22:47:49.688 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+22:47:49.713 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+22:47:51.143 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+22:47:51.410 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+22:47:52.572 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:47:58.565 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+22:47:59.862 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+22:48:00.725 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:49:42.413 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+22:49:42.457 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+22:49:42.567 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+22:49:42.626 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+22:49:44.389 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+22:49:44.417 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+22:49:44.418 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+22:49:45.239 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:49:51.559 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+22:49:53.053 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+22:49:54.203 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:51:14.872 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+22:51:15.280 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+22:51:17.148 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+22:51:17.323 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+22:51:17.878 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+22:51:18.667 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:51:19.100 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+22:51:25.030 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+22:51:26.198 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+22:51:26.885 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:53:33.847 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+22:53:34.217 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+22:53:34.342 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+22:53:34.611 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+22:53:36.509 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+22:53:36.755 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+22:53:36.755 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+22:53:37.233 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:53:43.514 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+22:53:44.807 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+22:53:45.506 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+22:59:20.411 [main] INFO  myframework1.framework.base - driver started
+22:59:21.321 [main] INFO  myframework1.framework.base - driver quit
+22:59:27.210 [main] INFO  myframework1.framework.base - driver started
+22:59:27.291 [main] INFO  myframework1.framework.base - navigation bar present
+22:59:27.995 [main] INFO  myframework1.framework.base - driver quit
+23:00:43.616 [main] INFO  myframework1.framework.base - driver started
+23:00:44.724 [main] INFO  myframework1.framework.base - tried logging-in
+23:00:46.026 [main] INFO  myframework1.framework.base - driver quit
+23:00:52.314 [main] INFO  myframework1.framework.base - driver started
+23:00:53.349 [main] INFO  myframework1.framework.base - tried logging-in
+23:00:54.044 [main] INFO  myframework1.framework.base - driver quit
+23:01:01.166 [main] INFO  myframework1.framework.base - driver started
+23:01:02.710 [main] INFO  myframework1.framework.base - driver quit
+23:01:09.285 [main] INFO  myframework1.framework.base - driver started
+23:01:09.377 [main] INFO  myframework1.framework.base - navigation bar present
+23:01:10.081 [main] INFO  myframework1.framework.base - driver quit
+23:02:13.372 [main] INFO  myframework1.framework.base - driver started
+23:02:14.799 [main] INFO  myframework1.framework.base - tried logging-in
+23:02:15.483 [main] INFO  myframework1.framework.base - driver quit
+23:02:22.246 [main] INFO  myframework1.framework.base - driver started
+23:02:23.356 [main] INFO  myframework1.framework.base - tried logging-in
+23:02:24.497 [main] INFO  myframework1.framework.base - driver quit
+23:02:30.384 [main] INFO  myframework1.framework.base - driver started
+23:02:31.962 [main] INFO  myframework1.framework.base - driver quit
+23:02:38.090 [main] INFO  myframework1.framework.base - driver started
+23:02:38.170 [main] INFO  myframework1.framework.base - navigation bar present
+23:02:38.880 [main] INFO  myframework1.framework.base - driver quit
+23:05:49.535 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:05:49.568 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+23:05:50.169 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+23:05:50.277 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+23:05:51.752 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:05:52.079 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+23:05:52.079 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+23:05:52.448 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:06:00.154 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:06:01.314 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:06:02.344 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:07:24.786 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+23:07:24.845 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+23:07:25.079 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:07:25.119 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+23:07:26.754 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:07:27.270 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+23:07:27.270 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+23:07:27.488 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:07:33.649 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:07:35.021 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:07:35.772 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:08:34.279 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+23:08:34.308 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:08:34.372 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+23:08:34.768 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+23:08:36.251 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:08:36.566 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+23:08:36.566 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+23:08:36.949 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:08:44.473 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:08:45.666 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:08:46.441 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:09:58.263 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:09:58.413 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+23:09:58.448 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+23:09:58.669 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+23:09:59.853 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+23:10:00.757 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:10:01.548 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:10:08.330 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:10:09.637 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:10:10.401 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:11:21.282 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+23:11:21.369 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:11:21.523 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+23:11:22.272 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+23:11:22.706 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+23:11:23.083 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:11:23.838 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:11:30.060 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:11:31.376 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:11:32.106 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:13:04.530 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:13:05.349 [pool-3-thread-3] INFO  myframework1.framework.base - driver started
+23:13:05.561 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+23:13:05.709 [pool-3-thread-3] INFO  myframework1.framework.base - navigation bar present
+23:13:06.781 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:13:06.946 [pool-3-thread-3] INFO  myframework1.framework.base - driver quit
+23:13:07.517 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:13:14.399 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:13:15.588 [pool-3-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:13:16.342 [pool-3-thread-1] INFO  myframework1.framework.base - driver quit
+23:19:23.056 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+23:19:23.148 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+23:19:23.355 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+23:19:24.131 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+23:19:34.337 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+23:19:35.998 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:19:37.656 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+23:19:45.002 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+23:19:46.177 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+23:19:46.891 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:16:09.750 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+12:16:10.036 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+12:16:10.208 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+12:16:11.611 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+12:16:21.382 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:16:22.509 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:16:23.977 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:16:31.439 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:16:32.503 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:16:33.292 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:17:05.225 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+12:17:05.894 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+12:17:05.993 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+12:17:07.324 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+12:17:17.256 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:17:18.578 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:17:19.489 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:17:26.348 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:17:27.462 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:17:28.176 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:19:51.788 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+12:19:52.135 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+12:19:52.236 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+12:19:53.437 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+12:20:04.592 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:20:05.617 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:20:06.313 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:20:13.322 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:20:14.336 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:20:15.040 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:21:00.122 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+12:21:00.294 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+12:21:00.297 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+12:21:00.480 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+12:21:09.078 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:21:10.613 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:21:11.312 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:21:18.327 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:21:19.425 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:21:20.135 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:22:13.369 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+12:22:13.437 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+12:22:14.139 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+12:22:22.251 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:22:23.622 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:22:24.348 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:22:31.464 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:22:32.529 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:22:33.259 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:25:14.634 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+12:25:15.534 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+12:25:15.598 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+12:25:16.146 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+12:25:22.919 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:25:23.847 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:25:24.478 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:25:31.508 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:25:32.245 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:25:32.998 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:32:01.670 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+12:32:01.824 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+12:32:01.938 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+12:32:01.938 [pool-3-thread-2] INFO  myframework1.framework.base - logged sucessfully
+12:32:01.994 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+12:32:08.283 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:32:09.034 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:32:09.657 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:32:15.478 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:32:16.319 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:32:16.976 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:35:28.675 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+12:35:28.991 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+12:35:29.244 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+12:35:29.397 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+12:35:35.791 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:35:36.592 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:35:37.380 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:35:43.029 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:35:43.729 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:35:44.826 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:44:30.289 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+12:44:30.346 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+12:44:30.414 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+12:44:31.052 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+12:44:38.620 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:44:39.903 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:44:40.522 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+12:44:46.460 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+12:44:47.623 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+12:44:48.645 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:07:41.954 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+13:07:42.128 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+13:07:42.196 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+13:07:42.723 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+13:07:49.077 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+13:07:49.843 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:07:51.293 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:07:57.020 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+13:07:57.761 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:07:58.406 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:13:17.825 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+13:13:17.871 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+13:13:17.936 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+13:13:18.470 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+13:14:07.987 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+13:14:08.752 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+13:14:09.262 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+13:14:09.454 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+13:14:16.186 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+13:14:16.951 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:14:17.597 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:14:23.298 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+13:14:24.239 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:14:24.924 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:16:09.664 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+13:16:09.761 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+13:16:09.865 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+13:16:10.249 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+13:16:16.399 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+13:16:17.201 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:16:17.839 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:16:24.111 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+13:16:24.891 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:16:25.563 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:17:16.926 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+13:17:17.653 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+13:17:17.715 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+13:17:18.234 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+13:17:28.224 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+13:17:28.911 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:17:29.556 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:17:35.219 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+13:17:35.926 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:17:36.592 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:18:23.652 [main] INFO  myframework1.framework.base - driver started
+13:18:28.341 [main] INFO  myframework1.framework.base - driver quit
+13:18:34.624 [main] INFO  myframework1.framework.base - driver started
+13:18:34.670 [main] INFO  myframework1.framework.base - navigation bar present
+13:18:34.738 [main] INFO  myframework1.framework.base - driver quit
+13:18:40.911 [main] INFO  myframework1.framework.base - driver started
+13:18:41.625 [main] INFO  myframework1.framework.base - tried logging-in
+13:18:42.255 [main] INFO  myframework1.framework.base - driver quit
+13:18:48.040 [main] INFO  myframework1.framework.base - driver started
+13:18:48.856 [main] INFO  myframework1.framework.base - tried logging-in
+13:18:49.536 [main] INFO  myframework1.framework.base - driver quit
+13:21:17.330 [main] INFO  myframework1.framework.base - driver started
+13:22:05.307 [TestNG] INFO  myframework1.framework.base - driver started
+13:22:05.671 [TestNG] INFO  myframework1.framework.base - driver started
+13:22:06.670 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:22:07.384 [TestNG] INFO  myframework1.framework.base - driver quit
+13:22:13.159 [TestNG] INFO  myframework1.framework.base - driver started
+13:22:13.836 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:22:14.465 [TestNG] INFO  myframework1.framework.base - driver quit
+13:24:25.020 [TestNG] INFO  myframework1.framework.base - driver started
+13:24:25.775 [TestNG] INFO  myframework1.framework.base - driver quit
+13:24:25.984 [TestNG] INFO  myframework1.framework.base - driver started
+13:24:26.991 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:24:27.721 [TestNG] INFO  myframework1.framework.base - driver quit
+13:24:32.847 [TestNG] INFO  myframework1.framework.base - driver started
+13:24:32.910 [TestNG] INFO  myframework1.framework.base - navigation bar present
+13:24:32.984 [TestNG] INFO  myframework1.framework.base - driver quit
+13:24:33.855 [TestNG] INFO  myframework1.framework.base - driver started
+13:24:34.615 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:24:35.225 [TestNG] INFO  myframework1.framework.base - driver quit
+13:24:55.142 [TestNG] INFO  myframework1.framework.base - driver started
+13:24:55.205 [TestNG] INFO  myframework1.framework.base - driver started
+13:24:55.861 [TestNG] INFO  myframework1.framework.base - driver quit
+13:24:56.127 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:24:56.799 [TestNG] INFO  myframework1.framework.base - driver quit
+13:25:01.537 [TestNG] INFO  myframework1.framework.base - driver started
+13:25:01.596 [TestNG] INFO  myframework1.framework.base - navigation bar present
+13:25:01.667 [TestNG] INFO  myframework1.framework.base - driver quit
+13:25:03.079 [TestNG] INFO  myframework1.framework.base - driver started
+13:25:03.784 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:25:04.425 [TestNG] INFO  myframework1.framework.base - driver quit
+13:25:30.840 [pool-3-thread-1] INFO  myframework1.framework.base - driver started
+13:25:31.004 [pool-3-thread-2] INFO  myframework1.framework.base - driver started
+13:25:31.489 [pool-3-thread-2] INFO  myframework1.framework.base - navigation bar present
+13:25:31.571 [pool-3-thread-2] INFO  myframework1.framework.base - driver quit
+13:25:37.534 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+13:25:38.235 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:25:38.866 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:25:44.598 [pool-4-thread-1] INFO  myframework1.framework.base - driver started
+13:25:45.431 [pool-4-thread-1] INFO  myframework1.framework.base - tried logging-in
+13:25:46.551 [pool-4-thread-1] INFO  myframework1.framework.base - driver quit
+13:26:14.774 [TestNG] INFO  myframework1.framework.base - driver started
+13:26:15.416 [TestNG] INFO  myframework1.framework.base - driver started
+13:26:15.644 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:26:16.071 [TestNG] INFO  myframework1.framework.base - driver quit
+13:26:16.277 [TestNG] INFO  myframework1.framework.base - driver quit
+13:26:22.431 [TestNG] INFO  myframework1.framework.base - driver started
+13:26:22.525 [TestNG] INFO  myframework1.framework.base - navigation bar present
+13:26:22.629 [TestNG] INFO  myframework1.framework.base - driver quit
+13:26:22.809 [TestNG] INFO  myframework1.framework.base - driver started
+13:26:23.684 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:26:24.326 [TestNG] INFO  myframework1.framework.base - driver quit
+13:29:59.060 [TestNG] INFO  myframework1.framework.base - driver started
+13:29:59.142 [TestNG] INFO  myframework1.framework.base - driver started
+13:30:00.160 [TestNG] INFO  myframework1.framework.base - driver quit
+13:30:00.471 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:30:02.023 [TestNG] INFO  myframework1.framework.base - driver quit
+13:30:06.138 [TestNG] INFO  myframework1.framework.base - driver started
+13:30:06.218 [TestNG] INFO  myframework1.framework.base - navigation bar present
+13:30:06.325 [TestNG] INFO  myframework1.framework.base - driver quit
+13:30:07.951 [TestNG] INFO  myframework1.framework.base - driver started
+13:30:08.731 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:30:09.357 [TestNG] INFO  myframework1.framework.base - driver quit
+13:34:04.666 [TestNG] INFO  myframework1.framework.base - driver started
+13:34:05.041 [TestNG] INFO  myframework1.framework.base - driver started
+13:34:05.624 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:34:05.802 [TestNG] INFO  myframework1.framework.base - driver quit
+13:34:06.326 [TestNG] INFO  myframework1.framework.base - driver quit
+13:34:11.558 [TestNG] INFO  myframework1.framework.base - driver started
+13:34:11.720 [TestNG] INFO  myframework1.framework.base - navigation bar present
+13:34:11.782 [TestNG] INFO  myframework1.framework.base - driver quit
+13:34:12.881 [TestNG] INFO  myframework1.framework.base - driver started
+13:34:13.569 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:34:14.209 [TestNG] INFO  myframework1.framework.base - driver quit
+13:34:48.168 [TestNG] INFO  myframework1.framework.base - driver started
+13:34:48.435 [TestNG] INFO  myframework1.framework.base - driver started
+13:34:48.748 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:34:48.850 [TestNG] INFO  myframework1.framework.base - driver quit
+13:34:49.332 [TestNG] INFO  myframework1.framework.base - driver quit
+13:34:55.146 [TestNG] INFO  myframework1.framework.base - driver started
+13:34:55.192 [TestNG] INFO  myframework1.framework.base - navigation bar present
+13:34:55.218 [TestNG] INFO  myframework1.framework.base - driver quit
+13:34:55.653 [TestNG] INFO  myframework1.framework.base - driver started
+13:34:56.299 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:34:56.866 [TestNG] INFO  myframework1.framework.base - driver quit
+13:41:14.386 [TestNG] INFO  myframework1.framework.base - driver started
+13:41:14.480 [TestNG] INFO  myframework1.framework.base - driver started
+13:41:15.086 [TestNG] INFO  myframework1.framework.base - driver quit
+13:41:15.644 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:41:16.287 [TestNG] INFO  myframework1.framework.base - driver quit
+13:41:21.396 [TestNG] INFO  myframework1.framework.base - driver started
+13:41:21.498 [TestNG] INFO  myframework1.framework.base - navigation bar present
+13:41:21.649 [TestNG] INFO  myframework1.framework.base - driver quit
+13:41:22.260 [TestNG] INFO  myframework1.framework.base - driver started
+13:41:23.140 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:41:24.229 [TestNG] INFO  myframework1.framework.base - driver quit
+13:41:46.059 [TestNG] INFO  myframework1.framework.base - driver started
+13:41:46.579 [TestNG] INFO  myframework1.framework.base - driver started
+13:41:46.956 [TestNG] INFO  myframework1.framework.base - driver quit
+13:41:47.912 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:41:48.804 [TestNG] INFO  myframework1.framework.base - driver quit
+13:41:52.573 [TestNG] INFO  myframework1.framework.base - driver started
+13:41:52.630 [TestNG] INFO  myframework1.framework.base - navigation bar present
+13:41:52.689 [TestNG] INFO  myframework1.framework.base - driver quit
+13:41:55.001 [TestNG] INFO  myframework1.framework.base - driver started
+13:41:56.069 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:41:56.674 [TestNG] INFO  myframework1.framework.base - driver quit
+13:42:58.759 [TestNG] INFO  myframework1.framework.base - driver started
+13:42:59.179 [TestNG] INFO  myframework1.framework.base - driver quit
+13:43:00.115 [TestNG] INFO  myframework1.framework.base - driver started
+13:43:00.748 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:43:01.314 [TestNG] INFO  myframework1.framework.base - driver quit
+13:43:05.059 [TestNG] INFO  myframework1.framework.base - driver started
+13:43:05.097 [TestNG] INFO  myframework1.framework.base - navigation bar present
+13:43:05.126 [TestNG] INFO  myframework1.framework.base - driver quit
+13:43:07.111 [TestNG] INFO  myframework1.framework.base - driver started
+13:43:07.966 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:43:08.522 [TestNG] INFO  myframework1.framework.base - driver quit
+13:44:16.197 [TestNG] INFO  myframework1.framework.base - driver started
+13:44:16.453 [TestNG] INFO  myframework1.framework.base - driver started
+13:44:16.847 [TestNG] INFO  myframework1.framework.base - driver quit
+13:44:17.269 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:44:17.840 [TestNG] INFO  myframework1.framework.base - driver quit
+13:44:22.737 [TestNG] INFO  myframework1.framework.base - driver started
+13:44:22.785 [TestNG] INFO  myframework1.framework.base - navigation bar present
+13:44:22.809 [TestNG] INFO  myframework1.framework.base - driver quit
+13:44:24.135 [TestNG] INFO  myframework1.framework.base - driver started
+13:44:25.137 [TestNG] INFO  myframework1.framework.base - tried logging-in
+13:44:25.705 [TestNG] INFO  myframework1.framework.base - driver quit
+14:24:45.605 [main] INFO  myframework1.framework.base - driver started
+14:24:45.720 [main] INFO  myframework1.framework.base - driver quit
+14:24:51.997 [main] INFO  myframework1.framework.base - driver started
+14:24:52.064 [main] INFO  myframework1.framework.base - navigation bar present
+14:24:52.099 [main] INFO  myframework1.framework.base - driver quit
+14:24:58.595 [main] INFO  myframework1.framework.base - driver started
+14:24:58.682 [main] INFO  myframework1.framework.base - driver quit
+14:26:38.029 [main] INFO  myframework1.framework.base - driver started
+14:26:38.160 [main] INFO  myframework1.framework.base - driver quit
+14:26:44.275 [main] INFO  myframework1.framework.base - driver started
+14:26:44.357 [main] INFO  myframework1.framework.base - navigation bar present
+14:26:44.445 [main] INFO  myframework1.framework.base - driver quit
+14:26:50.430 [main] INFO  myframework1.framework.base - driver started
+14:26:51.355 [main] INFO  myframework1.framework.base - link is present
+14:26:55.679 [main] INFO  myframework1.framework.base - driver quit
+20:56:23.240 [TestNG] INFO  myframework1.framework.base - driver started
+20:56:23.604 [TestNG] INFO  myframework1.framework.base - driver started
+20:56:24.519 [TestNG] INFO  myframework1.framework.base - driver quit
+20:56:24.696 [TestNG] INFO  myframework1.framework.base - tried logging-in
+20:56:25.334 [TestNG] INFO  myframework1.framework.base - driver quit
+20:56:30.358 [TestNG] INFO  myframework1.framework.base - driver started
+20:56:30.439 [TestNG] INFO  myframework1.framework.base - navigation bar present
+20:56:30.664 [TestNG] INFO  myframework1.framework.base - driver quit
+20:56:31.791 [TestNG] INFO  myframework1.framework.base - driver started
+20:56:32.717 [TestNG] INFO  myframework1.framework.base - tried logging-in
+20:56:33.331 [TestNG] INFO  myframework1.framework.base - driver quit
+20:56:36.300 [TestNG] INFO  myframework1.framework.base - driver started
+20:56:37.351 [TestNG] INFO  myframework1.framework.base - link is present
+20:56:41.869 [TestNG] INFO  myframework1.framework.base - driver quit
+20:56:47.944 [TestNG] INFO  myframework1.framework.base - driver started
+20:56:48.506 [TestNG] INFO  myframework1.framework.base - driver started
+20:56:48.909 [TestNG] INFO  myframework1.framework.base - tried logging-in
+20:56:49.522 [TestNG] INFO  myframework1.framework.base - driver quit
+20:56:49.640 [TestNG] INFO  myframework1.framework.base - driver quit
+20:56:55.913 [TestNG] INFO  myframework1.framework.base - driver started
+20:56:55.970 [TestNG] INFO  myframework1.framework.base - navigation bar present
+20:56:56.127 [TestNG] INFO  myframework1.framework.base - driver quit
+20:56:56.262 [TestNG] INFO  myframework1.framework.base - driver started
+20:56:57.087 [TestNG] INFO  myframework1.framework.base - tried logging-in
+20:56:57.717 [TestNG] INFO  myframework1.framework.base - driver quit
+20:57:01.985 [TestNG] INFO  myframework1.framework.base - driver started
+20:57:03.275 [TestNG] INFO  myframework1.framework.base - link is present
+20:57:03.655 [TestNG] INFO  myframework1.framework.base - driver quit
+21:08:40.145 [TestNG] INFO  myframework1.framework.base - driver started
+21:08:40.145 [TestNG] INFO  myframework1.framework.base - driver started
+21:08:40.924 [TestNG] INFO  myframework1.framework.base - driver quit
+21:08:41.066 [TestNG] INFO  myframework1.framework.base - tried logging-in
+21:08:41.691 [TestNG] INFO  myframework1.framework.base - driver quit
+21:08:47.988 [TestNG] INFO  myframework1.framework.base - driver started
+21:08:48.054 [TestNG] INFO  myframework1.framework.base - navigation bar present
+21:08:48.106 [TestNG] INFO  myframework1.framework.base - driver quit
+21:08:48.236 [TestNG] INFO  myframework1.framework.base - driver started
+21:08:48.960 [TestNG] INFO  myframework1.framework.base - tried logging-in
+21:08:49.595 [TestNG] INFO  myframework1.framework.base - driver quit
+21:08:53.798 [TestNG] INFO  myframework1.framework.base - driver started
+21:08:54.807 [TestNG] INFO  myframework1.framework.base - link is present
+21:08:59.077 [TestNG] INFO  myframework1.framework.base - driver quit
+21:09:45.939 [TestNG] INFO  myframework1.framework.base - driver started
+21:09:46.247 [TestNG] INFO  myframework1.framework.base - driver started
+21:09:47.063 [TestNG] INFO  myframework1.framework.base - tried logging-in
+21:09:47.295 [TestNG] INFO  myframework1.framework.base - driver quit
+21:09:47.733 [TestNG] INFO  myframework1.framework.base - driver quit
+21:09:53.137 [TestNG] INFO  myframework1.framework.base - driver started
+21:09:53.211 [TestNG] INFO  myframework1.framework.base - navigation bar present
+21:09:53.280 [TestNG] INFO  myframework1.framework.base - driver quit
+21:09:53.934 [TestNG] INFO  myframework1.framework.base - driver started
+21:09:54.911 [TestNG] INFO  myframework1.framework.base - tried logging-in
+21:09:55.523 [TestNG] INFO  myframework1.framework.base - driver quit
+21:09:58.984 [TestNG] INFO  myframework1.framework.base - driver started
+21:10:00.004 [TestNG] INFO  myframework1.framework.base - link is present
+21:10:04.632 [TestNG] INFO  myframework1.framework.base - driver quit
+21:10:11.002 [TestNG] INFO  myframework1.framework.base - driver started
+21:10:11.335 [TestNG] INFO  myframework1.framework.base - driver started
+21:10:12.192 [TestNG] INFO  myframework1.framework.base - tried logging-in
+21:10:12.325 [TestNG] INFO  myframework1.framework.base - driver quit
+21:10:12.837 [TestNG] INFO  myframework1.framework.base - driver quit
+21:10:18.200 [TestNG] INFO  myframework1.framework.base - driver started
+21:10:18.242 [TestNG] INFO  myframework1.framework.base - navigation bar present
+21:10:18.316 [TestNG] INFO  myframework1.framework.base - driver quit
+21:10:18.964 [TestNG] INFO  myframework1.framework.base - driver started
+21:10:19.933 [TestNG] INFO  myframework1.framework.base - tried logging-in
+21:10:20.556 [TestNG] INFO  myframework1.framework.base - driver quit
+21:10:24.005 [TestNG] INFO  myframework1.framework.base - driver started
+21:10:25.141 [TestNG] INFO  myframework1.framework.base - link is present
+21:10:29.661 [TestNG] INFO  myframework1.framework.base - driver quit
